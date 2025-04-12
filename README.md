@@ -3,8 +3,6 @@
 
 # Real-Time Face Detection using YOLOv5
 
-![Real-Time Face Detection](https://user-images.githubusercontent.com/your-image-link.png)
-
 ## 🚀 Project Overview
 
 Welcome to **Real-Time Face Detection**! This project uses **YOLOv5**, a state-of-the-art **object detection** model, to detect faces in real time. It can be applied to webcam streams or uploaded video/media files, providing fast and accurate face detection in dynamic environments.
@@ -70,13 +68,6 @@ You’ll be prompted to select an image or video file, and the system will detec
 
 ---
 
-## 🎥 Demo
-
-Here’s a quick demo of the **Real-Time Face Detection** in action:
-
-![Face Detection Demo](https://user-images.githubusercontent.com/your-video-link.gif)
-
----
 
 ## 📂 File Overview
 
